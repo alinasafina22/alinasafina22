@@ -1,5 +1,3 @@
----
-
 
 <h1>:woman_technologist: About Me:</h1>
 
@@ -11,5 +9,4 @@
 
 - :zap: I also love travelling and exploring the world.
 
----
 
