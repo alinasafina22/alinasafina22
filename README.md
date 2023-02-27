@@ -1,7 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100"/>
+</div>
+
 
 <h1>:woman_technologist: About Me:</h1>
 
-- :computer: I am a Junior Automation QA.
+- :computer: I am a Automation QA.
 
 - :telescope: I'm learning Python Basic, Selenium, Pytest.
 
