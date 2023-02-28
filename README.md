@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://online.sbis.ru/opendoc.html?guid=dd9c7d22-3cc2-47ad-aae1-0019009751e5&client=3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://komarev.com/ghpvc/?username=alinasafina22&style=flat-square&color=blue" alt=""/>
 </div>
