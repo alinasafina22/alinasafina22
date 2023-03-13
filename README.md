@@ -12,12 +12,12 @@
   
 <h1>:woman_technologist: About Me:</h1>
 
-- :computer: I am a Automation QA.
+- :computer: I am an Automation QA.
 
-- :telescope: I'm learning Python Basic, Selenium, Pytest.
+- :telescope: I'm learning Python Basic, Selenium and Pytest.
 
-- :seedling: I work as a QA-engineer in a large IT company.
+- :seedling: I work as a QA engineer in a large IT company.
 
-- :zap: I also love travelling and exploring the world.
+- :zap: I also love  traveling and exploring the world.
 
 
