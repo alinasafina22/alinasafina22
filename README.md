@@ -14,7 +14,7 @@
 
 - :computer: I am an Automation QA.
 
-- :telescope: I'm learning Python Basic, Selenium and Pytest.
+- :telescope: I'm learning Java Core, Selenium.
 
 - :seedling: I work as a QA engineer in a large IT company.
 
