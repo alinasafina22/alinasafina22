@@ -10,7 +10,7 @@
 
 
   
-<h1>:woman_technologist: About Me:</h1>
+<h1>💻: About Me:</h1>
 
 - :computer: I am an Automation QA.
 
