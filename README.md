@@ -12,7 +12,7 @@
   
 <h1>👧: About Me:</h1>
 
-- :computer: I am an Automation QA.
+- 🐈‍⬛: I am an Automation QA.
 
 - :telescope: I'm learning Java Core, Selenium.
 
