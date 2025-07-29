@@ -14,7 +14,7 @@
 
 - 💻: I am an Automation QA.
 
-- :telescope: I'm learning Java Core, Selenium.
+- :telescope: I'm learning Python, FastApi.
 
 - :seedling: I work as a QA engineer in a large IT company.
 
