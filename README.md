@@ -91,7 +91,7 @@
   </tr>
 </table>
 
-## 😹 Memes
+## 🐱 Memes
 
 <p align="center">
   <img src="assets/meme.png" width="320" alt="No stress, just vibing"/><br/>
