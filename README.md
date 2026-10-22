@@ -18,7 +18,7 @@
 🧪  Senior QA Engineer, 5+ years in testing
 🔌  Love backend: APIs, databases, message queues — and testing all of it
 🐍  Build test frameworks in Python and write backend services with FastAPI
-👩‍🏫  Review test code and mentor junior QA engineers
+✍️  Write tests and everything they need: fixtures, test data, mocks, CI
 🎮  Off duty: games, music and books
 ✈️  Travelling and exploring the world in between
 ```
