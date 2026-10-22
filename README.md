@@ -91,11 +91,7 @@
   </tr>
 </table>
 
-## 😄 Joke &amp; meme of the day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%237F5AF0&aColor=%232CB67D" alt="Jokes Card"/>
-</p>
+## 😹 Memes
 
 <p align="center">
   <img src="assets/meme.png" width="320" alt="No stress, just vibing"/><br/>
