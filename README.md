@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/alinasafina22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=620&lines=Senior+Backend+QA+Engineer+%F0%9F%A7%AA;REST+%E2%80%A2+gRPC+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL;Breaking+APIs+so+users+don't+have+to;Next+stop%3A+AI+QA+%26+LLM+evaluation+%F0%9F%A4%96" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=620&lines=Senior+Backend+QA+Engineer+%F0%9F%A7%AA;REST+%E2%80%A2+gRPC+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL;Breaking+APIs+so+users+don't+have+to" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -19,7 +19,6 @@
 🔌  Love backend: APIs, databases, message queues — and testing all of it
 🐍  Build test frameworks in Python and write backend services with FastAPI
 👩‍🏫  Review test code and mentor junior QA engineers
-🤖  Learning ML to grow into AI QA / LLM evaluation
 🎮  Off duty: games, music and books
 ✈️  Travelling and exploring the world in between
 ```
