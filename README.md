@@ -97,23 +97,6 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%237F5AF0&aColor=%232CB67D" alt="Jokes Card"/>
 </p>
 
-```text
-🍺  A QA engineer walks into a bar.
-
-    Orders 1 beer.            ✅ 200 OK
-    Orders 0 beers.           ✅ 200 OK
-    Orders 99999999 beers.    ✅ 200 OK
-    Orders -1 beer.           ✅ 400 Bad Request
-    Orders a lizard.          ✅ 422 Unprocessable Entity
-    Orders "; DROP TABLE beers;--   ✅ handled
-
-    All tests green. Ship it. 🚀
-
-👤  First real customer walks in and asks where the restroom is.
-
-🔥  500 Internal Server Error. The bar is on fire.
-```
-
 <p align="center">
   <img src="assets/meme.png" width="320" alt="No stress, just vibing"/><br/>
   <sub>me after all tests passed ✅</sub>
