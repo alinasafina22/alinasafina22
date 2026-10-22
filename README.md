@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/alinasafina22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=620&lines=Senior+Backend+QA+Engineer+%F0%9F%A7%AA;REST+%E2%80%A2+gRPC+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL;Breaking+APIs+so+users+don't+have+to" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=620&lines=Senior+Backend+QA+Engineer+%F0%9F%A7%AA;REST+%E2%80%A2+gRPC+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -124,7 +124,6 @@
 
 ### 🎸 Music
 - 🎧 On my playlist: Snoop Dogg and Alla Pugacheva (yes, both 😄)
-- 🎹 Learning piano and making my first tracks in GarageBand — `status: WIP`
 - 🌾 Dream project: lofi hip-hop with Tatar folk vibes (kurai &amp; kubyz)
 
 </details>
