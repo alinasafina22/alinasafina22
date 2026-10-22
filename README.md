@@ -1,10 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=Hi,%20I'm%20Alina%20🐈‍⬛&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
-
-<p align="center">
-  <a href="https://github.com/alinasafina22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=620&lines=Senior+Backend+QA+Engineer+%F0%9F%A7%AA;REST+%E2%80%A2+gRPC+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL" alt="Typing SVG"/>
-  </a>
-</p>
+<h1 align="center">Hi, I'm Alina 🐈‍⬛</h1>
+<p align="center">Senior Backend QA Engineer · Python · REST · gRPC · Kafka · PostgreSQL</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alina-zharkevich-759b5b215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,6 +14,7 @@
 🔌  Love backend: APIs, databases, message queues — and testing all of it
 🐍  Write backend services in Python with FastAPI
 ✍️  Write tests and everything they need: frameworks, fixtures, test data, mocks, CI
+🤖  Into machine learning — exploring models and data in my free time
 🎮  Off duty: games, music and books
 ✈️  Travelling and exploring the world in between
 ```
@@ -107,32 +103,9 @@
   <a href="https://www.youtube.com/watch?v=M3Rr9ngLuZA"><img src="https://img.shields.io/badge/▶_Listen_on-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </p>
 
-<details>
-<summary><b>🌙 More about me — click to expand</b></summary>
-<br/>
-
-### 🎮 Games
-- 🕹️ Video games — finding bugs for fun, not for a ticket
-- ♟️ Chess — used to play and watch a lot, still up for a game
-<!-- - 🕹️ Favorite game: **GAME_NAME** -->
-
-### 📚 Books
-- 📖 Used to read a book a week, now mostly on my phone
-- 🔖 Always have one in progress
-<!-- - ⭐ All-time favorite: **BOOK_TITLE** by AUTHOR -->
-<!-- - 🔖 Currently reading: **BOOK_TITLE** -->
-
-### 🎸 Music
-- 🎧 On my playlist: Snoop Dogg and Alla Pugacheva (yes, both 😄)
-- 🌾 Dream project: lofi hip-hop with Tatar folk vibes (kurai &amp; kubyz)
-
-</details>
-
 ## 📊 GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alinasafina22&show_icons=true&hide_border=true&theme=tokyonight&title_color=7F5AF0&icon_color=2CB67D"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinasafina22&layout=compact&hide_border=true&theme=tokyonight&title_color=7F5AF0"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=100&section=footer" width="100%"/>
