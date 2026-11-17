@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Alina 🐈‍⬛</h1>
 <p align="center">Senior Backend QA Engineer · Python · REST · gRPC · Kafka · PostgreSQL</p>
+<p align="center">🌐 <a href="https://alinasafina22.github.io">alinasafina22.github.io</a> — my little corner of the internet</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alina-zharkevich-759b5b215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -89,23 +90,5 @@
 ## 🐱 Memes
 
 <p align="center">
-  <img src="assets/meme.png" width="320" alt="No stress, just vibing"/><br/>
-  <sub>me after all tests passed ✅</sub>
-</p>
-
-## 🎧 On repeat
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=M3Rr9ngLuZA">
-    <img src="https://img.youtube.com/vi/M3Rr9ngLuZA/hqdefault.jpg" width="360" alt="Михаил Круг & Slipknot — Владимирский Дуал"/>
-  </a><br/>
-  <sub><b>Михаил Круг &amp; Slipknot — Владимирский Дуал</b></sub><br/>
-  <a href="https://www.youtube.com/watch?v=M3Rr9ngLuZA"><img src="https://img.shields.io/badge/▶_Listen_on-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-</p>
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alinasafina22&show_icons=true&hide_border=true&theme=tokyonight&title_color=7F5AF0&icon_color=2CB67D"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinasafina22&layout=compact&hide_border=true&theme=tokyonight&title_color=7F5AF0"/>
+  <img src="assets/meme.png" width="320" alt="No stress, just vibing"/>
 </p>
